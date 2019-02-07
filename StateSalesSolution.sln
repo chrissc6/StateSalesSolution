@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateSales", "StateSales\StateSales.csproj", "{AE01B327-0295-46E6-8934-3513FA1D5D13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDic", "StateDic\StateDic.csproj", "{B0DDC4F6-6C14-420C-9F04-2E936AF19190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE01B327-0295-46E6-8934-3513FA1D5D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE01B327-0295-46E6-8934-3513FA1D5D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE01B327-0295-46E6-8934-3513FA1D5D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DDC4F6-6C14-420C-9F04-2E936AF19190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DDC4F6-6C14-420C-9F04-2E936AF19190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DDC4F6-6C14-420C-9F04-2E936AF19190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DDC4F6-6C14-420C-9F04-2E936AF19190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
