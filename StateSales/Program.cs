@@ -38,6 +38,12 @@ namespace StateSales
             total += strDicton.Get("IL");
             Console.WriteLine($"Total Sales of KY, PA, MI, IL: {total}");
 
+            var t1 = strDicton.GetTotalSales("IN", "NY", "MN");
+            Console.WriteLine($"Total Sales of IN, NY, MN: {t1}");
+
+            var t2 = strDicton.GetTotalSales("KY", "PA", "MI", "IL");
+            Console.WriteLine($"Total Sales of KY, PA, MI, IL: {t2}");
+
         }
     }
 }
